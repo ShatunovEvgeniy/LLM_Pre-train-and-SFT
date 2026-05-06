@@ -1,0 +1,6 @@
+jupyter
+torch
+transformers
+datasets
+tokenizers
+accelerate
